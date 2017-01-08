@@ -1,1 +1,1 @@
-# ROKO.Stickers.Android-Demo-APP
+# ROKO.Stickers.Android
